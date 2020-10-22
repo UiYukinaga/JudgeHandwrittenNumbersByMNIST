@@ -8,5 +8,9 @@
 - Tensorflow
 - matplotlib
 - PIL
+```
+pip install pillow
+```
+
 - numpy
 - gzip
