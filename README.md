@@ -1,0 +1,2 @@
+# JudgeHandwrittenNumbersByMNIST
+手書き数字データセットMNISTを学習して、自分で手書きした数字を判定させる
